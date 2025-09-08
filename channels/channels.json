@@ -1,5 +1,12 @@
 [
     {"name": "Latina", "url": "https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8"},
+    {"name": "America TV", "url": "https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_720p/chunks.m3u8"},
+    {"name": "Panamericana TV", "url": "https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8"},
+    {"name": "TV Peru", "url": "https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_720p/chunks.m3u8"},
+    {"name": "ATV", "url": "https://live-evg20.tv360.bitel.com.pe/bitel/atv_abr/bitel/atv_720p/chunks.m3u8"},
+    {"name": "Global TV", "url": "https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8"},
+    {"name": "La Tele", "url": "https://live-evg20.tv360.bitel.com.pe/bitel/la_tele_abr/bitel/la_tele_720p/chunks.m3u8"},
+    {"name": "Willax", "url": "https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8"},
     {"name": "GMA", "url": "https://ott.m3u8.nathcreqtives.com/gma/manifest.m3u8"},
     {"name": "TV5", "url": "https://ott.m3u8.nathcreqtives.com/tv5/manifest.m3u8"},
     {"name": "Kapamilya Channel", "url": "https://ott.m3u8.nathcreqtives.com/kapamilyachannel/manifest.m3u8"},
